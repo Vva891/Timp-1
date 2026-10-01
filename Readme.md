@@ -1,3 +1,4 @@
+HELLo
 Simple project for study makefiles
 =====================
 
